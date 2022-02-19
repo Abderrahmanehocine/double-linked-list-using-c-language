@@ -9,7 +9,7 @@
   --------------------
          NODE        */
   /* 
-    the definition of the node in the 
+    the definition of the node in the README.md file
  */
 struct node{
   char name[40];       
