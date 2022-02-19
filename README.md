@@ -1,10 +1,7 @@
 # double-linked-list-using-c-language
---------------------
-| * |          | * |
-|pre|   DATA   |nex|   
-| v |          | t |
---------------------
-        NODE
+
+ Take student information and stored as a linked list.
+ 
        *we declare a struct node each node contain 3 part:
      -first part: contain pointer named prev this pointer point to the previous node of the linked list.
      -second part: contain data (name and age of students).
