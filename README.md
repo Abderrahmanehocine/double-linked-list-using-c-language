@@ -1,6 +1,6 @@
 # double-linked-list-using-c-language
 
- Take student information and stored as a linked list.
+ Take student information and store it in the memory as a linked list.
  
        *we declare a struct node each node contain 3 part:
      -first part: contain pointer named prev this pointer point to the previous node of the linked list.
